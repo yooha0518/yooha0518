@@ -22,8 +22,7 @@
   <br/>
   
   <h3>🥉 learning 🥉</h3>
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" /><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <br/>
   <br/>
     
@@ -33,3 +32,9 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </div>
+  <br/>
+  <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooha0518&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yooha0518&show_icons=true">
+
+
