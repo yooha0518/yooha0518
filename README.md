@@ -34,7 +34,8 @@
 </div>
   <br/>
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooha0518&layout=compact"><br><br>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yooha0518&layout=compact)"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yooha0518&show_icons=true">
 
 
