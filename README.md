@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yoohayoung&fontSize=90" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yoohayoung&fontSize=90" />
 	<div align="center">
-  
+  <br/>
+  <br/>
+ 
   <h3>🥇 Strong 🥇</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
@@ -25,6 +28,8 @@
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" /><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <br/>
   <br/>
+  <br/>
+  <br/>
     
   <h3>🛠 Tools 🛠</h3>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -34,8 +39,19 @@
 </div>
   <br/>
   <br/>
+  <br/>
+  <br/>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yooha0518&layout=compact)"><br><br>
+***
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yooha0518&layout=pie)"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yooha0518&show_icons=true">
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
