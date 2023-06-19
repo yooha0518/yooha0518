@@ -42,15 +42,11 @@
   <br/>
   <br/>
 
-🏆 Awards
+🏆 Awards 🏆
 	<br/><br/>
 엘리스 1차 팀 프로젝트 대상 수상 (총 23팀)
-***
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yooha0518&layout=pie)"><br><br>
+
+
 
   <br/>
   <br/>
